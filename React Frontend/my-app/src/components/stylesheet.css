@@ -1,0 +1,32 @@
+.primary {
+    color: orangered;
+}
+
+.border {
+    border: black solid 3px;
+    border-radius: 10px;
+}
+
+.couleur {
+    color: pink;
+    background-color: darkslategray;
+}
+
+.couleurBis {
+    color: indigo;
+    background-color: silver;
+}
+
+.redFalse{
+    border: black solid 3px;
+    border-radius: 30px;
+    background-color: red;
+    margin: 5px 50px;
+}
+
+.greenTrue{
+    border: black solid 3px;
+    border-radius: 30px;
+    background-color: green;
+    margin: 5px 50px;
+}
